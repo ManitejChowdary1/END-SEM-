@@ -1,9 +1,9 @@
 {
-  "name": "suneethamam",
+  "name": "travel-frontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ManitejChowdary1.github.io/mam",
+  "homepage": "https://github.com/ManitejChowdary1/END-SEM-.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
