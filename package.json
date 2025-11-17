@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/ManitejChowdary1/END-SEM-.git",
+  "homepage": "https://github.com/ManitejChowdary1/END-SEM-",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
